@@ -582,8 +582,8 @@ body.show-panel #page #content * {
     position: relative
 }
 .side-panel .skill .bar .bar-active, .side-panel .skill .bar .bar-background {
-    height: 3px;
-    background-color: #7937b9;
+    height: 5px;
+    background-color: #1D90FF;
     position: absolute;
     top: 0;
     left: 0
@@ -1202,14 +1202,14 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #f9880f
 }
 .color-theme-orange .side-panel .skill .bar .bar-active, .color-theme-orange .side-panel .skill .bar .bar-background {
-    background-color: #f9880f
+    background-color: #1D90FF
 }
 .color-theme-blue {}
 .color-theme-blue a {
-    color: #0065fc
+    color: #1D90FF
 }
 .color-theme-blue a:hover, .color-theme-blue a:focus, .color-theme-blue a:active {
-    color: #0065fc
+    color: #1D90FF
 }
 .color-theme-blue .btn {
     color: #fff
@@ -1221,24 +1221,24 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-blue .btn.btn-primary {
-    background-color: #0065fc;
-    border: 3px solid #0065fc
+    background-color: #1D90FF;
+    border: 3px solid #1D90FF
 }
 .color-theme-blue .btn.btn-primary.btn-border {
-    border: 3px solid #0065fc;
+    border: 3px solid #1D90FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-blue .btn.btn-primary:hover, .color-theme-blue .btn.btn-primary:focus, .color-theme-blue .btn.btn-primary:active {
-    background-color: #0065fc;
-    border: 3px solid #0065fc;
+    background-color: #1D90FF;
+    border: 3px solid #1D90FF;
     color: #fff
 }
 .color-theme-blue .side-panel .gallery .image h4:after {
-    background-color: #0065fc
+    background-color: #1D90FF
 }
 .color-theme-blue .side-panel .skill .bar .bar-active, .color-theme-blue .side-panel .skill .bar .bar-background {
-    background-color: #0065fc
+    background-color: #1D90FF
 }
 .color-theme-green {}
 .color-theme-green a {
