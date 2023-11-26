@@ -1166,7 +1166,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #ed1c24
 }
 .color-theme-red .side-panel .skill .bar .bar-active, .color-theme-red .side-panel .skill .bar .bar-background {
-    background-color: #ed1c24
+    background-color: #1D90FF
 }
 .color-theme-orange {}
 .color-theme-orange a {
