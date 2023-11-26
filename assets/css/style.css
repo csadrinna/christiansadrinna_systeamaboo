@@ -751,7 +751,7 @@ p {
     color: #fff
 }
 .btn.btn-border:hover, .btn.btn-border:focus, .btn.btn-border:active {
-    border-radius: 8px;
+    border-radius: 0px;
     color: #fff
 }
 #content {}
