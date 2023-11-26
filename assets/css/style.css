@@ -1274,7 +1274,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #3cbf45
 }
 .color-theme-green .side-panel .skill .bar .bar-active, .color-theme-green .side-panel .skill .bar .bar-background {
-    background-color: #3cbf45
+    background-color: #1D90FF
 }
 .color-theme-yellow {}
 .color-theme-yellow a {
@@ -1310,7 +1310,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #eadd09
 }
 .color-theme-yellow .side-panel .skill .bar .bar-active, .color-theme-yellow .side-panel .skill .bar .bar-background {
-    background-color: #eadd09
+    background-color: #1D90FF
 }
 .color-theme-monochrome {}
 .color-theme-monochrome a {
@@ -1346,7 +1346,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #494949
 }
 .color-theme-monochrome .side-panel .skill .bar .bar-active, .color-theme-monochrome .side-panel .skill .bar .bar-background {
-    background-color: #494949
+    background-color: #1D90FF
 }
 .color-theme-brown {}
 .color-theme-brown a {
@@ -1382,7 +1382,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #736357
 }
 .color-theme-brown .side-panel .skill .bar .bar-active, .color-theme-brown .side-panel .skill .bar .bar-background {
-    background-color: #736357
+    background-color: #1D90FF
 }
 .color-theme-pink {}
 .color-theme-pink a {
