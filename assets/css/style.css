@@ -583,13 +583,13 @@ body.show-panel #page #content * {
 }
 .side-panel .skill .bar .bar-active, .side-panel .skill .bar .bar-background {
     height: 5px;
-    background-color: #1D90FF;
+    background-color: #8FC8FF;
     position: absolute;
     top: 0;
     left: 0
 }
 .side-panel .skill .bar .bar-background {
-    opacity: .2;
+    opacity: .25;
     width: 100%
 }
 .side-panel .icon {
@@ -714,16 +714,16 @@ p {
     outline: none !important
 }
 .btn.btn-primary {
-    background-color: #1D90FF;
-    border: 3px solid #1D90FF
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
-    background-color: #1D90FF;
-    border: 3px solid #1D90FF;
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF;
     box-shadow: none
 }
 .btn.btn-primary.btn-border {
-    border: 3px solid #1D90FF;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
@@ -1149,24 +1149,24 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-red .btn.btn-primary {
-    background-color: #ed1c24;
-    border: 3px solid #ed1c24
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-red .btn.btn-primary.btn-border {
-    border: 3px solid #ed1c24;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-red .btn.btn-primary:hover, .color-theme-red .btn.btn-primary:focus, .color-theme-red .btn.btn-primary:active {
-    background-color: #ed1c24;
-    border: 3px solid #ed1c24;
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF;
     color: #fff
 }
 .color-theme-red .side-panel .gallery .image h4:after {
     background-color: #ed1c24
 }
 .color-theme-red .side-panel .skill .bar .bar-active, .color-theme-red .side-panel .skill .bar .bar-background {
-    background-color: #1D90FF
+    background-color: #transparent;
 }
 .color-theme-orange {}
 .color-theme-orange a {
@@ -1185,24 +1185,24 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-orange .btn.btn-primary {
-    background-color: #f9880f;
-    border: 3px solid #f9880f
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-orange .btn.btn-primary.btn-border {
-    border: 3px solid #f9880f;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-orange .btn.btn-primary:hover, .color-theme-orange .btn.btn-primary:focus, .color-theme-orange .btn.btn-primary:active {
-    background-color: #f9880f;
-    border: 3px solid #f9880f;
+    background-color: #8FC8FF;
+    border: 3px solid #f981D90FF80f;
     color: #fff
 }
 .color-theme-orange .side-panel .gallery .image h4:after {
     background-color: #f9880f
 }
 .color-theme-orange .side-panel .skill .bar .bar-active, .color-theme-orange .side-panel .skill .bar .bar-background {
-    background-color: #1D90FF
+    background-color: transparent
 }
 .color-theme-blue {}
 .color-theme-blue a {
@@ -1221,24 +1221,24 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-blue .btn.btn-primary {
-    background-color: #1D90FF;
-    border: 3px solid #1D90FF
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-blue .btn.btn-primary.btn-border {
-    border: 3px solid #1D90FF;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-blue .btn.btn-primary:hover, .color-theme-blue .btn.btn-primary:focus, .color-theme-blue .btn.btn-primary:active {
-    background-color: #1D90FF;
-    border: 3px solid #1D90FF;
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF;
     color: #fff
 }
 .color-theme-blue .side-panel .gallery .image h4:after {
     background-color: #1D90FF
 }
 .color-theme-blue .side-panel .skill .bar .bar-active, .color-theme-blue .side-panel .skill .bar .bar-background {
-    background-color: #1D90FF
+    background-color: #D7E9FF
 }
 .color-theme-green {}
 .color-theme-green a {
@@ -1257,24 +1257,24 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-green .btn.btn-primary {
-    background-color: #3cbf45;
-    border: 3px solid #3cbf45
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-green .btn.btn-primary.btn-border {
-    border: 3px solid #3cbf45;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-green .btn.btn-primary:hover, .color-theme-green .btn.btn-primary:focus, .color-theme-green .btn.btn-primary:active {
-    background-color: #3cbf45;
-    border: 3px solid #3cbf45;
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF;
     color: #fff
 }
 .color-theme-green .side-panel .gallery .image h4:after {
     background-color: #3cbf45
 }
 .color-theme-green .side-panel .skill .bar .bar-active, .color-theme-green .side-panel .skill .bar .bar-background {
-    background-color: #1D90FF
+    background-color: #D7E9FF
 }
 .color-theme-yellow {}
 .color-theme-yellow a {
@@ -1293,11 +1293,11 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-yellow .btn.btn-primary {
-    background-color: #eadd09;
-    border: 3px solid #eadd09
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-yellow .btn.btn-primary.btn-border {
-    border: 3px solid #eadd09;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
@@ -1310,7 +1310,7 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     background-color: #eadd09
 }
 .color-theme-yellow .side-panel .skill .bar .bar-active, .color-theme-yellow .side-panel .skill .bar .bar-background {
-    background-color: #1D90FF
+    background-color: #D7E9FF
 }
 .color-theme-monochrome {}
 .color-theme-monochrome a {
@@ -1329,17 +1329,17 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-monochrome .btn.btn-primary {
-    background-color: #494949;
-    border: 3px solid #494949
+    background-color: #8FC8FF;
+    border: 3px solid #8FC8FF
 }
 .color-theme-monochrome .btn.btn-primary.btn-border {
-    border: 3px solid #494949;
+    border: 3px solid #8FC8FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-monochrome .btn.btn-primary:hover, .color-theme-monochrome .btn.btn-primary:focus, .color-theme-monochrome .btn.btn-primary:active {
-    background-color: #494949;
-    border: 3px solid #494949;
+    background-color: #1D90FF;
+    border: 3px solid #1D90FF;
     color: #fff
 }
 .color-theme-monochrome .side-panel .gallery .image h4:after {
@@ -1365,17 +1365,17 @@ input[type="text"]:active, input[type="text"]:focus, input[type="text"]:hover, i
     color: #fff
 }
 .color-theme-brown .btn.btn-primary {
-    background-color: #736357;
-    border: 3px solid #736357
+    background-color: #1D90FF;
+    border: 3px solid #1D90FF
 }
 .color-theme-brown .btn.btn-primary.btn-border {
-    border: 3px solid #736357;
+    border: 3px solid #1D90FF;
     background-color: transparent;
     color: #fff
 }
 .color-theme-brown .btn.btn-primary:hover, .color-theme-brown .btn.btn-primary:focus, .color-theme-brown .btn.btn-primary:active {
-    background-color: #736357;
-    border: 3px solid #736357;
+    background-color: #1D90FF;
+    border: 3px solid #1D90FF;
     color: #fff
 }
 .color-theme-brown .side-panel .gallery .image h4:after {
