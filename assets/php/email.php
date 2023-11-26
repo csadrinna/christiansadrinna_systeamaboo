@@ -1,8 +1,8 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'hithemestarz@gmail.com';
-$subject = 'Message from Inovo';
+$to = 'support@systema.boo';
+$subject = 'Interesse an Podcast von Systema.boo';
 
 $name = "";
 $email = "";
