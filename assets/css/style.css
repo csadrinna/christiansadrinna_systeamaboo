@@ -671,7 +671,7 @@ body.hide-loading-screen #page:after, body.hide-loading-screen .loader, html.hid
     display: none
 }
 h1 {
-    font-size: 60px;
+    font-size: 80px;
     display: inline-block;
     text-shadow: 0 5px 16px rgba(0,0,0,.4);
     text-align: left;
